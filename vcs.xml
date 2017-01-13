@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Konstantine-Nevzhunskyi/lab2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Konstantine-Nevzhunskyi/BD-LAB2-final-" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Pal\Desktop" />
+    <option name="cloneParentDir" value="C:\Users\Pal\Desktop\10" />
   </component>
 </application>
